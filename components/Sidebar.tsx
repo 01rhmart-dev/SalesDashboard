@@ -36,10 +36,10 @@ export default function Sidebar({ open }: SidebarProps) {
       <aside className={`sidebar ${open ? 'open' : 'closed'}`}>
         <div className="sidebar-header">
           <div className="logo-section">
-            <div className="logo-placeholder">🧁</div>
+            <div className="logo-placeholder">🥰</div>
             <div className="logo-text">
-              <h2>SweetMetrics</h2>
-              <p>Bakery Dashboard</p>
+              <h2>RH Cakes</h2>
+              <p>Dashboard</p>
             </div>
           </div>
         </div>
@@ -66,9 +66,9 @@ export default function Sidebar({ open }: SidebarProps) {
 
         <div className="sidebar-footer">
           <div className="user-section">
-            <div className="user-avatar">M</div>
+            <div className="user-avatar">R</div>
             <div className="user-info">
-              <p className="user-name">Monica</p>
+              <p className="user-name">Rhey Mart G</p>
               <p className="user-role">Owner</p>
             </div>
           </div>

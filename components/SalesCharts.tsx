@@ -23,7 +23,7 @@ interface SalesChartsProps {
 const dailySalesData = [
   { date: 'Mon', sales: 4000, revenue: 2400 },
   { date: 'Tue', sales: 3000, revenue: 1398 },
-  { date: 'Wed', sales: 2000, revenue: 9800 },
+  { date: 'Wed', sales: 2000, revenue: 12000 },
   { date: 'Thu', sales: 2780, revenue: 3908 },
   { date: 'Fri', sales: 1890, revenue: 4800 },
   { date: 'Sat', sales: 2390, revenue: 3800 },
